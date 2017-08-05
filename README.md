@@ -15,8 +15,8 @@
 `npm run dev` and point your web browser to `http://localhost:8081`.
 
 ### 项目截图
- ![image](https://github.com/zhq734/neo4j-vue/edit/master/screenshots/项目截图1.png)
- ![image](https://github.com/zhq734/neo4j-vue/edit/master/screenshots/项目截图2.png)
+ ![image](https://github.com/zhq734/neo4j-vue/blob/master/screenshots/项目截图1.png)
+ ![image](https://github.com/zhq734/neo4j-vue/blob/master/screenshots/项目截图2.png)
 
 ### 目录结构
 ├── index.html                      入口页面<br/>
